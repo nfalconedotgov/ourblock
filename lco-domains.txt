@@ -2,3 +2,7 @@ employvalid.com
 cloud-hwid.us.com
 prizechamps.com
 columbiana.chaptersofpeace.de
+#sc vuln 9-7-26
+tele-sync.opik.net
+homehub.opik.net
+borertors92.anondns.net
